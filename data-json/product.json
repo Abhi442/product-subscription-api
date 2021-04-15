@@ -1,0 +1,34 @@
+{ 
+    "products": [
+        {
+            "id": 1,
+            "name": "Creative cloud all apps",
+            "subscriptionPrice": 4230.30,
+            "subscriptionType": "monthly"
+        },
+        {
+            "id": 2,
+            "name": "Photoshop",
+            "subscriptionPrice": 1675.60,
+            "subscriptionType": "monthly"
+        },
+        {
+            "id": 3,
+            "name": "Illustrator",
+            "subscriptionPrice": 1675.60,
+            "subscriptionType": "monthly"
+        },
+        {
+            "id": 4,
+            "name": "Premiere Rush",
+            "subscriptionPrice": 1675.60,
+            "subscriptionType": "monthly"
+        },
+        {
+            "id": 5,
+            "name": "After Effects",
+            "subscriptionPrice": 1675.60,
+            "subscriptionType": "monthly"
+        }
+    ]
+}
